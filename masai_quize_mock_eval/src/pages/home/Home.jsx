@@ -5,7 +5,7 @@ import { useDispatch } from 'react-redux'
 import { userPostToAPI } from '../../redux/action'
 import { reactQuestion } from '../../questionCategory/reactQuestion'
 import { sportsQuestion } from '../../questionCategory/sportQuestion'
-import { javaScriptQuestion } from '../../questionCategory/jsvscriptQuestion'
+import { javaScriptQuestion } from '../../questionCategory/jsvscriptQuestion';
 
 const initialState = {
     userName: "",
