@@ -1,0 +1,58 @@
+.result {
+    background-color: blue;
+    height: 100vh;
+}
+
+.result .container__result {
+    width: 30%;
+    margin: auto;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border: 1px solid white;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.result .container__result p {
+    font-size: 1.5rem;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.result .container__result p:first-child {
+    width: 80%;
+}
+
+.container__result div {
+    display: flex;
+}
+
+.btn__container {
+    width: 20%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 68%;
+    left: 50%;
+}
+
+.btn__container button, .rank__btn button {
+    width: 100%;
+    padding: 1rem 2rem;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.rank__btn{
+    width: 15%;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+
+.btn__container button:hover, .rank__btn button:hover {
+    background-color: black;
+    color: white;
+}

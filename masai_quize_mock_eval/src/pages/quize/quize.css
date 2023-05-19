@@ -1,0 +1,117 @@
+.quize-container{
+    background-color: #5c4cc2;
+    height: 100vh;
+}
+
+.singleQuestionContainer{
+    border: 1px solid white;
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 2rem 1rem 1rem;
+    border-radius: 5px;
+    color: white;
+}
+
+.question-section{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    gap: 1rem;
+}
+.question-text{
+    width: 78%;
+}
+
+.question-count{
+    width: 21%;
+}
+
+.answer-section p{
+    border: 1px solid white;
+    padding: 12px;
+    margin-bottom: 0.8rem;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.answer-section p:hover{
+    background-color: rgb(21, 20, 20);
+    border: 1px solid black;
+}
+
+.next__and__prev__btn{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.next__and__prev__btn button, .scrore-section button{
+    padding: 10px 30px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+}
+.next__and__prev__btn button:hover, .scrore-section button:hover{
+    background-color: black;
+    color: white;
+}
+
+.scrore-section{
+    text-align: center;
+    border: 1px solid white;
+    width: 40%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 2rem 1rem;
+    border-radius: 5px;
+}
+
+.scrore-section button{
+    margin-top: 2rem;
+}
+
+.scrore-section h1{
+    color: white;
+}
+
+/* grrn - */
+/* error - #c55787*/
+
+
+.initialInfo{
+    border: 1px solid white;
+    width: 30%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 2rem;
+    border-radius: 10px;
+}
+.initialInfo h2{
+    color: white;
+}
+.initialInfo button{
+    padding: 10px 30px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+}
+.initialInfo button:hover{
+    background-color: black;
+    color: white;
+}

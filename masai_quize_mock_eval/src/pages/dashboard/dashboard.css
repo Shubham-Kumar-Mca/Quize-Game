@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dashboard{
+    background-color: #5c4cc2;
+    height: 100vh;
+    padding-top: 2rem;
+}
+
+.dashboard button{
+    width: 15%;
+    margin-top: 1rem;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    float: right;
+    margin-right: 8.5rem;
+}
+button:hover{
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+/*Start Tabel CSS */
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+  
+}
+table td, table th{
+    border: 1px solid #d1d5db;
+    padding: 10px;
+    text-align: center;
+}
+table th{
+    background-color: rgb(2, 63, 2);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 12px;
+}
+table tbody tr:hover{
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+}
+
+/*End Tabel CSS */
