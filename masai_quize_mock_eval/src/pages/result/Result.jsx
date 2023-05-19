@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import "./result.css"
+import "./result.css";
 import { useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { getUsrDataFromAPI } from '../../redux/action';
