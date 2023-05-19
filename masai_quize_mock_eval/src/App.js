@@ -3,7 +3,7 @@ import './App.css';
 import Home from './pages/home/Home';
 import Quize from './pages/quize/Quize';
 import Dashboard from './pages/dashboard/Dashboard';
-import Result from './pages/result/Result';
+import Result from './pages/result/Result'
 
 function App() {
 
