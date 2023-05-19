@@ -1,5 +1,5 @@
 import axios from "axios";
-import { USER__DATA__GET } from "./actionType";
+import { USER__DATA__GET } from "./actionType"
 
 export const userGetData = (payload) => ({type : USER__DATA__GET, payload});
 
