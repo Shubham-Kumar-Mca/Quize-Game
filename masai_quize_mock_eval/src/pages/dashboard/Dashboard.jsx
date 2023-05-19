@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import "./dashboard.css"
 import { useDispatch, useSelector } from 'react-redux';
 import { getUsrDataFromAPI } from '../../redux/action';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom'
 
 const Dashboard = () => {
     const dispatch = useDispatch();
