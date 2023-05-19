@@ -1,0 +1,696 @@
+{
+  "users": [
+    {
+      "userName": "Rohit Chaurvedi",
+      "category": "jsvascript",
+      "dificulty": "Easy",
+      "numberOfQuize": "3",
+      "quizeQuestion": [
+        {
+          "questionText": "What is JavaScript?",
+          "answerOption": [
+            {
+              "anserText": "JavaScript is a scripting language used to make the website interactive",
+              "isCorrect": true
+            },
+            {
+              "anserText": "JavaScript is an assembly language used to make the website interactive",
+              "isCorrect": false
+            },
+            {
+              "anserText": "JavaScript is a compiled language used to make the website interactive",
+              "isCorrect": false
+            },
+            {
+              "anserText": "None of the mentioned",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Which of the following is correct about JavaScript?",
+          "answerOption": [
+            {
+              "anserText": "JavaScript is an Object-Based language",
+              "isCorrect": true
+            },
+            {
+              "anserText": "JavaScript is Assembly-language",
+              "isCorrect": false
+            },
+            {
+              "anserText": "JavaScript is an Object-Oriented language",
+              "isCorrect": false
+            },
+            {
+              "anserText": " JavaScript is a High-level language",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Arrays in JavaScript are defined by which of the following statements?",
+          "answerOption": [
+            {
+              "anserText": "It is an ordered list of values",
+              "isCorrect": true
+            },
+            {
+              "anserText": "It is an ordered list of objects",
+              "isCorrect": false
+            },
+            {
+              "anserText": "It is an ordered list of string",
+              "isCorrect": false
+            },
+            {
+              "anserText": "It is an ordered list of functions",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "id": 1,
+      "score": 3
+    },
+    {
+      "userName": "Shivam Kumar",
+      "category": "jsvascript",
+      "dificulty": "Medium",
+      "numberOfQuize": "4",
+      "quizeQuestion": [
+        {
+          "questionText": "Which of the following can be used to call a JavaScript Code Snippet?",
+          "answerOption": [
+            {
+              "anserText": "Function/Method",
+              "isCorrect": true
+            },
+            {
+              "anserText": "Preprocessor",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Triggering Event",
+              "isCorrect": false
+            },
+            {
+              "anserText": "RMI",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Which of the following scoping type does JavaScript use?",
+          "answerOption": [
+            {
+              "anserText": "Sequential",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Segmental",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Lexical",
+              "isCorrect": true
+            },
+            {
+              "anserText": "Literal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Why JavaScript Engine is needed?",
+          "answerOption": [
+            {
+              "anserText": "Both Compiling & Interpreting the JavaScript",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Parsing the javascript",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Interpreting the JavaScript",
+              "isCorrect": true
+            },
+            {
+              "anserText": "Compiling the JavaScript",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Why event handlers is needed in JS?",
+          "answerOption": [
+            {
+              "anserText": "Allows JavaScript code to alter the behaviour of windows",
+              "isCorrect": true
+            },
+            {
+              "anserText": "Adds innerHTML page to the code",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Change the server location",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Performs handling of exceptions and occurrences",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "id": 2,
+      "score": 1
+    },
+    {
+      "userName": "Ayush Jha",
+      "category": "React",
+      "dificulty": "Easy",
+      "numberOfQuize": "4",
+      "quizeQuestion": [
+        {
+          "questionText": "What is ReactJS?",
+          "answerOption": [
+            {
+              "anserText": "a) user interface framework",
+              "isCorrect": true
+            },
+            {
+              "anserText": "b) Server-side framework",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) both a and b",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) none of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Who created React.js?",
+          "answerOption": [
+            {
+              "anserText": "a) Jordan Mike",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) Jordan Walke",
+              "isCorrect": true
+            },
+            {
+              "anserText": "c) Tim Lee",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) Jordan Lee",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "In which language is React.js written?",
+          "answerOption": [
+            {
+              "anserText": "a) Python",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) JavaScript",
+              "isCorrect": true
+            },
+            {
+              "anserText": "c) Java",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) PHP",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "What is Babel?",
+          "answerOption": [
+            {
+              "anserText": "a) JavaScript compiler",
+              "isCorrect": true
+            },
+            {
+              "anserText": "b) JavaScript interpreter",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) JavaScript transpiler",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) None of the above",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "id": 3,
+      "score": 3
+    },
+    {
+      "userName": "Satyadeep chaudhari",
+      "category": "Sports",
+      "dificulty": "Easy",
+      "numberOfQuize": "5",
+      "quizeQuestion": [
+        {
+          "questionText": "What is the other name of Salt Lake Stadium?",
+          "answerOption": [
+            {
+              "anserText": "Yuba Bharti Stadium",
+              "isCorrect": true
+            },
+            {
+              "anserText": "Bharat Bharti Stadium",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Eden Gardens",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Kolkata Stadium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "What is the duration of a Test Match?",
+          "answerOption": [
+            {
+              "anserText": "3 days",
+              "isCorrect": false
+            },
+            {
+              "anserText": "4 days",
+              "isCorrect": false
+            },
+            {
+              "anserText": "1 day",
+              "isCorrect": false
+            },
+            {
+              "anserText": "5 days",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "With which sport is Dutee Chand associated?",
+          "answerOption": [
+            {
+              "anserText": "Sprint 100m",
+              "isCorrect": true
+            },
+            {
+              "anserText": "Long Jump",
+              "isCorrect": false
+            },
+            {
+              "anserText": "High Jump",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Discus Throw",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Which racing driver won the 2022 Canadian Grand Prix?",
+          "answerOption": [
+            {
+              "anserText": "Max Verstappen",
+              "isCorrect": true
+            },
+            {
+              "anserText": "Sebastien Vettel",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Lewis Hamilton",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Charles Leclerc",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Who is the winner of the French Open 2022 Men’s single title?",
+          "answerOption": [
+            {
+              "anserText": "Novak Djokovic",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Rafael Nadal",
+              "isCorrect": true
+            },
+            {
+              "anserText": "Casper Ruud",
+              "isCorrect": false
+            },
+            {
+              "anserText": "Lucas Alcaraz",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "id": 4,
+      "score": 4
+    },
+    {
+      "userName": "Pushkaraj Laurance",
+      "category": "React",
+      "dificulty": "Medium",
+      "numberOfQuize": "4",
+      "quizeQuestion": [
+        {
+          "questionText": "A state in React.js is also known as?",
+          "answerOption": [
+            {
+              "anserText": "a) The internal storage of the component",
+              "isCorrect": true
+            },
+            {
+              "anserText": "b) External storage of the component",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) Permanent storage",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) All of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "In MVC, what does React.js act as?",
+          "answerOption": [
+            {
+              "anserText": "a) Model",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) Controller",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) View",
+              "isCorrect": true
+            },
+            {
+              "anserText": "d) Middleware",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Identify the smallest building block of React.JS.",
+          "answerOption": [
+            {
+              "anserText": "a) Props",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) Elements",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) Components",
+              "isCorrect": true
+            },
+            {
+              "anserText": "d) None of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "What is ReactJS mainly used for building?",
+          "answerOption": [
+            {
+              "anserText": "a) Database",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) Connectivity",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) User interface",
+              "isCorrect": true
+            },
+            {
+              "anserText": "d) Design platform",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "id": 5,
+      "score": 4
+    },
+    {
+      "userName": "Shubham Kumar Jaiswal",
+      "category": "React",
+      "dificulty": "Hard",
+      "numberOfQuize": "5",
+      "quizeQuestion": [
+        {
+          "questionText": "In which directory is react component saved?",
+          "answerOption": [
+            {
+              "anserText": "a) vendor/js/components/",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) vendor/js/components/",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) js/components",
+              "isCorrect": true
+            },
+            {
+              "anserText": "d) vendor/components",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "What is the functionality of a “webpack” command?",
+          "answerOption": [
+            {
+              "anserText": "a) Runs react local development server",
+              "isCorrect": true
+            },
+            {
+              "anserText": "b) transfer files all the JavaScript down into one file",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) a module blunder",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) none of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "State whether true or false: React creates virtual DOM in memory.",
+          "answerOption": [
+            {
+              "anserText": "a) True",
+              "isCorrect": true
+            },
+            {
+              "anserText": "b) False",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "In react, the key should be?",
+          "answerOption": [
+            {
+              "anserText": "a) Unique among his siblings only",
+              "isCorrect": true
+            },
+            {
+              "anserText": "b) unique in the DOM",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) Does not requires to be unique",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) all of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Choose the component which should be overridden to stop the component from updating?",
+          "answerOption": [
+            {
+              "anserText": "a) componentDidUpdate",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) componentDidMount",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) willComponentUpdate",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) shouldComponentUpdate",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "id": 6,
+      "score": 4
+    },
+    {
+      "userName": "Shivani Kumari",
+      "category": "React",
+      "dificulty": "Medium",
+      "numberOfQuize": "5",
+      "quizeQuestion": [
+        {
+          "questionText": "A state in React.js is also known as?",
+          "answerOption": [
+            {
+              "anserText": "a) The internal storage of the component",
+              "isCorrect": true
+            },
+            {
+              "anserText": "b) External storage of the component",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) Permanent storage",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) All of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "In MVC, what does React.js act as?",
+          "answerOption": [
+            {
+              "anserText": "a) Model",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) Controller",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) View",
+              "isCorrect": true
+            },
+            {
+              "anserText": "d) Middleware",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Identify the smallest building block of React.JS.",
+          "answerOption": [
+            {
+              "anserText": "a) Props",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) Elements",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) Components",
+              "isCorrect": true
+            },
+            {
+              "anserText": "d) None of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "What is ReactJS mainly used for building?",
+          "answerOption": [
+            {
+              "anserText": "a) Database",
+              "isCorrect": false
+            },
+            {
+              "anserText": "b) Connectivity",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) User interface",
+              "isCorrect": true
+            },
+            {
+              "anserText": "d) Design platform",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Choose the correct data flow sequence of flux concept.",
+          "answerOption": [
+            {
+              "anserText": "a) Action -> Dispatcher -> Store -> View",
+              "isCorrect": true
+            },
+            {
+              "anserText": "b) Action -> Dispatcher -> View -> Store",
+              "isCorrect": false
+            },
+            {
+              "anserText": "c) Action -> Store -> View -> Dispatcher",
+              "isCorrect": false
+            },
+            {
+              "anserText": "d) Dispatcher -> Action -> Store -> View",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "id": 7,
+      "score": 5
+    }
+  ]
+}
