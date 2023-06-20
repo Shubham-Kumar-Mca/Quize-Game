@@ -16,11 +16,11 @@ Question :- https://near-ethernet-088.notion.site/Masai-Quiz-1a021c5f7e7f493a9d2
 
 ## Screenshots
 
-![Home Page](https://ibb.co/FnYb2Dh)
-![Quiz Page](https://ibb.co/R415C7V)
-![Quiz Page](https://ibb.co/BZBqnQ0)
-![Result Page](https://ibb.co/PNL0TRL)
-![Dashboard Page](https://ibb.co/q9SFyZC)
+![Home Page](https://ibb.co/FnYb2Dh.png)
+![Quiz Page](https://ibb.co/R415C7V.png)
+![Quiz Page](https://ibb.co/BZBqnQ0.png)
+![Result Page](https://ibb.co/PNL0TRL.png)
+![Dashboard Page](https://ibb.co/q9SFyZC.png)
 
 ## How to Use
 
